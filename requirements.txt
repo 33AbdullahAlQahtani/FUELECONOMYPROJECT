@@ -4,3 +4,4 @@ scikit-learm
 matplotlib
 pandas
 pickle
+sklearn
