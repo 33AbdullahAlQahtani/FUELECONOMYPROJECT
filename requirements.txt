@@ -1,0 +1,6 @@
+streamlit
+numpy
+scikit-learm
+matplotlib
+pandas
+pickle
